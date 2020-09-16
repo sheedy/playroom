@@ -112,7 +112,7 @@
     "prettier": "^2.0.5",
     "prop-types": "^15.7.2",
     "query-string": "^6.10.1",
-    "re-resizable": "^6.1.1",
+    "re-resizable": "^6.5.4",
     "react-codemirror2": "^6.0.0",
     "react-docgen-typescript": "^1.16.2",
     "react-use": "^13.22.3",
